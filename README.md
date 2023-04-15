@@ -1,4 +1,4 @@
-# Reconocimiento_defectos_MaskRCNN_II
+#Reconocimiento de defectos topológicos mediante Mask RCNN II
 Parte II del proyecto de visión computacional para la detención de defectos topológicos en cristales líquidos usando Mask RCNN
 
 En la segunda parte del proyecto, se agregó una segunda clase para la detección múltiple de cargas topológicas de +1/2 y -1/2. El objetivo del proyecto fue la segmentación semántica de imágenes generadas por una simulación de cristales líquidos en un medio continuo, utilizando MaskRCNN. Los repositorios base del proyecto incluyen una implementación para Tensorflow 1, una actualización para Tensorflow 2 y un tercer repositorio que incorpora un ejemplo práctico. Se llevaron a cabo modificaciones en todos los repositorios para permitir la detección en la simulación de cristales líquidos.
